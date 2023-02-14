@@ -11,10 +11,10 @@ Both models were trained on [*CelebA*](https://mmlab.ie.cuhk.edu.hk/projects/Cel
 
 # Results
 Some results of training are shown here.
-## SRGAN examples
+## SRGAN results
 ![SRGAN examples](results/srgan_examples.jpg?raw=true "SRGAN")
 
-## ESRGAN examples
+## ESRGAN results
 ![ESRGAN examples](results/esrgan_examples.jpg?raw=true "ESRGAN")
 
 Most impressive results are visible on this images with ESRGAN. Upscale factor is 4.
